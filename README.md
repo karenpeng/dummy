@@ -6,7 +6,6 @@ Dummy is a chrome extension that triggers a sound whenever you click something o
 That's it.<br>
 <br>
 
-![wat am i doing?](https://i.ytimg.com/vi/EmOqqwRzbPE/2.jpg?time=1415821063602)
-(https://www.youtube.com/watch?v=EmOqqwRzbPE)
+[![wat am i doing?](https://github.com/karenpeng/dummy_chrome_extension/screenshot/screenshot.png)](https://www.youtube.com/watch?v=EmOqqwRzbPE)
 
 
