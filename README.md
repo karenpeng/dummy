@@ -6,6 +6,7 @@ Dummy is a chrome extension that triggers a sound whenever you click something o
 That's it.<br>
 <br>
 
-YT(path = "<iframe width="640" height="360" src="//www.youtube.com/embed/EmOqqwRzbPE?list=UUsa7fbowwLi94D5M788uzPg" frameborder="0" allowfullscreen></iframe>", width = 640, height = 360, copy2clip = interactive(), print = FALSE)
+![wat am i doing?](https://i.ytimg.com/vi/EmOqqwRzbPE/2.jpg?time=1415821063602)
+(https://www.youtube.com/watch?v=EmOqqwRzbPE)
 
 
